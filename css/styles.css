@@ -1,0 +1,95 @@
+.header img {
+  width: 60px;
+  float: left;
+  position: relative;
+  top: 0px;
+}
+
+#mapContainer {
+  width: 100%;
+  height: 500px;
+  display: inline-block;
+}
+
+iframe {
+  width: 100%;
+  height: 500px;
+  display: inline-block;
+}
+
+#sidebar {
+  display: inline-block;
+  position: center;
+  padding: 5px;
+  background: #cdcdcd;
+  width: 100%;
+  height: 150px;
+}
+
+#info {
+  display: inline-block;
+  position: absolute;
+  padding: 15px;
+  background: black;
+  width: 50%;
+  height: 470px;
+}
+
+head{
+  font-family: 'Roboto', sans-serif;
+}
+
+.jumbotron{
+  background-image: url(https://isaaclangslow.files.wordpress.com/2013/11/mumbai-skyline-panorama.jpg);
+  color:white;
+  font-family: 'Roboto', sans-serif;
+  size: 10px;
+}
+
+
+.info {
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h6 {
+    margin: 0 0 5px;
+    color: #777;
+    width: 300px;
+    white-space: normal;
+}
+.legend {
+    line-height: 18px;
+    color: #555;
+}
+.legend i {
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin-right: 8px;
+    opacity: 0.7;
+}
+
+#hola{
+  font-family: 'Roboto', sans-serif;
+  font: 1px; 
+}
+.thick{
+  font-family: 'Roboto', sans-serif;
+  color: black;
+}
+
+#eso{
+ font-family: 'Roboto', sans-serif; 
+}
+
+#esto{
+ font-family: 'Roboto', sans-serif; 
+}
+
+
+
+
