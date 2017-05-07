@@ -52,12 +52,12 @@ var myData = {
       "type": "Feature",
       "properties": {
         "value": 2,
-        "type": "SECTOR NOT VISITED ",
+        "type": "N/A",
         "name": "Sector 2",
-        "tenure": "SECTOR NOT VISITED ",
-        "ratio": "SECTOR NOT VISITED ",
-        "people": "SECTOR NOT VISITED ",
-        "word": "SECTOR NOT VISITED "
+        "tenure": "N/A ",
+        "ratio": "N/A",
+        "people": "N/A",
+        "word": "N/A"
       },
       "geometry": {
         "type": "Polygon",
@@ -308,12 +308,12 @@ var myData = {
       "type": "Feature",
       "properties": {
         "value": 6,
-        "type": "SECTOR NOT VISITED ",
+        "type": "N/A",
         "name": "Sector 6",
-        "tenure": "SECTOR NOT VISITED ",
-        "ratio": "SECTOR NOT VISITED ",
-        "people": "SECTOR NOT VISITED ",
-        "word": "SECTOR NOT VISITED "
+        "tenure": "N/A",
+        "ratio": "N/A",
+        "people": "N/A",
+        "word": "N/A"
       },
       "geometry": {
         "type": "Polygon",

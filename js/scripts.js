@@ -94,7 +94,7 @@ info.update = function (props) {
         '</b><br />' +  '<b>Tenure</b><br />' + props.tenure+
         '</b><br />' +  '<b> Ownership/Renter ratio</b><br />' + props.ratio +
         '</b><br />' +  '<b> Number of people living at home</b><br />' + props.people +
-        '</b><br />' +  '<b> Qoute</b><br />' + '<h6>' + props.word + '</h6>'
+        '</b><br />' +  '<b> Quote</b><br />' + '<h6>' + props.word + '</h6>'
         : 'Hover over a sector!');
 };
 
@@ -107,7 +107,7 @@ legend.onAdd = function (map) {
   var div = L.DomUtil.create('div', 'info legend');
 //create legend and a loop that connects land use categories and colors
     grades = [1,2,3,4,5,6,7],
-    visit = ['Visited by the NYU team','Not visited by the NYU team'];
+    visit = ['Sectors interviewed by the NYU team','Sectors visited by the NYU team'];
 
     for (var i = 0; i < visit.length; i++) {
         div.innerHTML +=
